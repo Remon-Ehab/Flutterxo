@@ -26,9 +26,9 @@ class _XoScreenState extends State<XoScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.blue.shade400,
+        backgroundColor: Colors.blue.shade300,
         title: Text(
-          'XoGames',
+          'XO Games',
           style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
         ),
         centerTitle: true,
